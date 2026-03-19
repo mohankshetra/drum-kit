@@ -72,7 +72,7 @@ cd drum-kit
 
 🌐 Live Demo
 
-()
+( https://mohankshetra.github.io/drum-kit/)
 
 ---
 
